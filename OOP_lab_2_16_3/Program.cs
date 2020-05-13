@@ -80,7 +80,7 @@ namespace OOP_lab_2_16_3
             Console.WriteLine();
 
             Console.WriteLine("Miнiмальний за модулем елемент масиву: {0}", MinAbs(a));
-            Console.WriteLine("Cумa модулiв елементiв масиву, розташованих мiж першим й останнiм нульовими елементами: {0}", MultiplicationBetweenFirstAndLastZeroes(a));
+            Console.WriteLine("Добуток елементiв масиву, розташованих мiж першим й останнiм нульовими елементами: {0}", MultiplicationBetweenFirstAndLastZeroes(a));
         }
     }
 }
